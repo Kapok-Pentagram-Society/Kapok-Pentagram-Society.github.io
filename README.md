@@ -4,5 +4,9 @@
 
 The Kapok Pentagram Society was established in the summer of 2023. Originally, it was an organization under [Fluxus Cantonia Art Collective](https://fluxus.cantonia.org) (now Fluxus Society Cantonia) dedicated to translating and researching mysticism and neo-paganism. It is now personally operated by me. At the time, I was studying Wicca and, noting the lack of neo-pagan studies in Chinese-speaking regions, decided to begin translating materials on Reformed Druids and Agrippa. This marked the inception of the organization. Of course, neither the former me nor my current self as a Christian believes that magic and mysticism possess the direct ability to influence the physical world as depicted in literary works. However, if a practitioner is sufficiently devout, these practices may indirectly produce some limited effects through their mental state. In this sense, Christian prayers and Wiccan magical rituals might not seem fundamentally different to those who entirely disbelieve in such things. For them, at the very least, the content here should serve as a useful reference for constructing worldviews in fantasy novels or similar creative endeavors.
 
-[Sebastian Lahm-Lee](https://sebastian.graphics)
+[Sebastian Lahm-Lee](https://sebastian.graphics)<br />
 2025.1.22
+
+## 關於版權 About Copyright
+
+All translations, without further notice, is considered to be distributed under Creative Commons BY-NC-SA 4.0.
